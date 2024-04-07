@@ -1,5 +1,5 @@
 # 2ood
-2d toy datasets for detecting out-of-distribution
+2D toy datasets for detecting out-of-distribution
 
 ![](./2ood.png)
 
